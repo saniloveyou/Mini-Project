@@ -1,0 +1,59 @@
+ClassId,Name
+0,Speed limit (5km/h)
+1,Speed limit (15km/h)
+2,Speed limit (30km/h)
+3,Speed limit (40km/h)
+4,Speed limit (50km/h)
+5,Speed limit (60km/h)
+6,Speed limit (70km/h)
+7,Speed limit (80km/h)
+8,No Straight Through/Left 
+9,No Straight Through/Right
+10,No Straight Through
+11,No Left Turn
+12,No Left/Right Turn
+13,No right Turn
+14,No Overtaking
+15,No U-Turn
+16,No Vehicles
+17,No-Honking
+18,Speed limit (40km/h)
+19,Speed limit (50km/h)
+20,Dangerous curve to the right
+21,One Way 
+22,Turn Left ahead
+23,Turn Left/Right
+24,Turn right ahead
+25,Keep Left
+26,Keep Right
+27,Roundabout
+28,Mandatory lane for cars
+29,Honking Mandatory
+30,Cyclist path
+31,U-Turn
+32,Obstacle Warning
+33,Traffic Light Ahead
+34,Cars Not Allowed
+35,Pedestrain Crossing
+36,Cyclist Warning
+37,Child Warning
+38,Road Right Bend
+39,Road Left Bend
+40,Steep Descent Ahead
+41,Steep Ascent  Ahead
+42,Causion High Voltage
+43,Uncontrolled Crossroad from Right Warning
+44,Uncontrolled Crossroad from Left Warning
+45,Housing Area
+46,Double Curve Ahead Warning
+47,Rail Crossing
+48,Road Works Ahead
+49,Dangerous Road Bends
+50,Railway Crossing Ahead
+51,Rear End Collision
+52,Stop Sign
+53,No Vehicles Entry
+54,No parking
+55,No Entry
+56,Yield
+57,Do not Enter
